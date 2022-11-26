@@ -1,13 +1,14 @@
 package org.git;
 
 public class GitFinalWork {
-	private void systemModel() {
-		System.out.println("Model Name:HP");
+	   private void hairColor() {
+		System.out.println("Hair Color:Black");
+
 	}
 	
 	public static void main(String[] args) {
 		GitFinalWork n = new GitFinalWork();
-		n.systemModel();
+		n.hairColor();
 	}
 
 }
